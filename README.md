@@ -1,5 +1,5 @@
 # readme-test
-Repository to check out some of the new GUI Changes.
+Repository to check out some of the new GUI changes introduced to Github.
 
 We're no strangers to love
 You know the rules and so do I (do I)
