@@ -1,7 +1,7 @@
 # readme-test
-Repository to check out some of the new GUI changes introduced to Github.
+Repository to check out some of the new GUI changes introduced to Github -- and to hide some other things!    ZENSE{} 
 
-## This repo is a test-bed for a certain contest. Can you find the flag?
+## This repo is a test-bed for a certain contest. Can you find the flags?
 
 We're no strangers to love
 You know the rules and so do I (do I)
