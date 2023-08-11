@@ -1,5 +1,5 @@
 # readme-test
-Repository to check out some of the new GUI changes introduced to Github -- and to hide some other things!    ZENSE{} 
+Repository to check out some of the new GUI changes introduced to Github -- and to hide some other things! 
 
 ## This repo is a test-bed for a certain contest. Can you find the flags?
 
